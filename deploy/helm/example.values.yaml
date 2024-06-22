@@ -267,5 +267,6 @@ workflowService:
     WEBHOOK_URL: ""
     WORKFLOW_DASHBOARD_CORS_ORIGIN: "http://localhost:5200"
     KYB_EXAMPLE_CORS_ORIGIN: "http://localhost:5201"
+    KYC_EXAMPLE_CORS_ORIGIN: "http://localhost:5202"
     APP_API_URL: https://alon.ballerine.dev
     UNIFIED_API_URL: "https://unified-api-test.eu.ballerine.app"
